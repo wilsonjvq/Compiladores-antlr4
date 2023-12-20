@@ -1,0 +1,7 @@
+{
+    int Num1, Num2;
+    int Suma = 0;
+    for(int i=0;i < 3; i++){
+        Suma = Suma + Num1 + Num2; 
+    }
+}

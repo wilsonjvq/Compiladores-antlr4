@@ -1,0 +1,10 @@
+{
+    int i[10]; float 12Num;
+    while(int a){
+       
+    }else{
+        if(a = 10){
+            break;
+        }
+    }
+}

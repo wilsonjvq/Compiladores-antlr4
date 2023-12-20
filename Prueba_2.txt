@@ -1,0 +1,17 @@
+{
+    int i; int j; float[50] a; float[50] b;
+    if (a < 10 || b >= 10){
+        while(false){
+            a = a[i] / b;
+            b = a[j] * a;
+            i = a + b - j;
+        }
+    }else{
+        if(a > 10 && b <= 10){
+            break;
+        }
+        while(false){
+            break;
+        }
+    }
+}
